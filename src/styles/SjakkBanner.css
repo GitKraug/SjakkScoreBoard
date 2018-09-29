@@ -1,0 +1,22 @@
+.SjakkBanner {
+  width: 100%;
+  background: #0d375e;
+  display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	margin-bottom: 3%;	
+}
+
+.ChessPng{
+ 	width: 10%;
+  	margin: 50px;
+}
+
+.BannerTextHeading {
+  font-family: "Comic Sans MS";
+	font-size: 5em;
+	color: white;
+	margin: 10px;
+	text-align: center;
+}

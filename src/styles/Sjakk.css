@@ -1,0 +1,12 @@
+.SjakkHeading {
+  font-family: "Comic Sans MS";
+	font-size: 4.0em;
+	color: purple;
+	text-align: center;
+  margin-top: 10px;
+  width: 100%;
+}
+
+.SjakkContainer {
+  width: 100%;
+}
