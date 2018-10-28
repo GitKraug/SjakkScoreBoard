@@ -65,7 +65,7 @@ export default class ScoreBoard extends React.Component {
       var max = players[0]
 
       for(var j = 0; j < players.length; j ++) {
-        if(players[j].score >= max.score) {
+        if(parseInt(players[j].score) >= parseInt(max.score)) {
           max = players[j]
         }
       }
